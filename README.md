@@ -1,7 +1,7 @@
 # Flood Risk Prediction in Sud-Ubangi - DRC
 
 ## 🌍 Problem
-Sud-Ubangi floods (Gemena, Karawa, Bumba, Lisala) cause deaths and damage every year along Ubangi River. This project predicts flood risk in real-time.
+Sud-Ubangi floods (Gemena, Bumba, Lisala) cause deaths and damage every year along Ubangi River. This project predicts flood risk in real-time.
 
 ## 🧠 Solution - Machine Learning
 Machine Learning model trained on Equateur region data (altitude, rainfall, river proximity, urban density).
@@ -16,7 +16,7 @@ Machine Learning model trained on Equateur region data (altitude, rainfall, rive
 ### Model: RandomForestClassifier (accuracy > 90%)
 
 ## 🚨 Alert System
-- check_risk(): Real-time risk for Gemena-Karawa, Lisala-Bumba, Zongo
+- check_risk(): Real-time risk for Gemena, Lisala-Bumba, Zongo
 - Alert if risk > 70%: EVACUATION - Save lives in Sud-Ubangi
 
 ## 💻 How to run
