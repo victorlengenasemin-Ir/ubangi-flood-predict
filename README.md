@@ -24,7 +24,7 @@ pip install -r requirements.txt
 python main.py
 
 ## 👨‍💻 Author
-Ir Victor Mputu Mamba - Geomatics Engineer
+Ir Victor LENGENASE SENEMONA- Geomatics Engineer
 Gemena, Sud-Ubangi, DRC - Candidate AMMI 2026
 GitHub: Mputu96
 
